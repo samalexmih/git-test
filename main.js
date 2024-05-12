@@ -4,4 +4,8 @@ function returnSumm(a,b) {
 console.log(returnSumm(10,10));
 fwefewf
 fwefewffwef
-fwefwe
+fwefwer32r
+CanvasRenderingContext2D32r
+CanvasRenderingContext2D32r2r23
+
+423423
